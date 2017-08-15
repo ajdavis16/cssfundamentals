@@ -1,0 +1,12 @@
+body {
+	/*This is block comment */
+	background-color: #D3D3D3; // all number are the same
+}
+
+.margin {
+
+	margin-top: 20px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    margin-left: 20px;
+}
